@@ -1,1 +1,1 @@
-#This is a read me sample file for the git tuorial
+#This is a read me sample file for the git tutorial. 
